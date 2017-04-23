@@ -1,0 +1,70 @@
+header {
+  display: flex;
+  justify-content: center;
+  background-image: url("Motifs/Playstation-Pattern.png");
+  width:100%;
+  max-width: 960px;
+  padding: 10px;
+  margin: 15px;
+
+}
+Main{
+  background-image: url("Motifs/hexellence.png");
+  width:100%;
+  max-width: 960px;
+  padding: 10px;
+  margin: 15px;
+}
+.conteneur{
+    margin:10px;
+    padding:10px;
+  }
+
+body{
+  background-color: rgb(116, 208, 241)
+}
+h1{
+  padding-left : 70px;
+  padding-bottom: 65px;
+  color : rgb(11, 22, 22)
+
+}
+h2{
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 65px;
+  color: rgb(150, 0, 24)
+}
+h3{
+  margin-left: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  color: rgb(199, 44, 72)
+}
+li{
+  font-family: 'Farsan', cursive;
+  font-size: 20px;
+  list-style-type: square;
+}
+.colonne{
+    width:30%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+}
+p{
+  margin-right: 70px;
+  margin-left: 30px;
+  padding-top : 150px;
+
+}
+footer{
+  display: flex;
+  justify-content: center;
+  background-image: url("Motifs/Sports.png");
+  width: 100%;
+  max-width: 960px;
+  padding: 10px;
+  margin: 15px;
+}
